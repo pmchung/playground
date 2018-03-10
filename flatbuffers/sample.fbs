@@ -1,0 +1,6 @@
+namespace SampleGame;
+
+struct Position {
+  x:int;
+  y:int;
+}
